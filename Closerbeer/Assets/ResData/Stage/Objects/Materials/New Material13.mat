@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Material13
+  m_Shader: {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: ac794f618c690b64c845580131ddfd37, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EnvTex
+        second:
+          m_Texture: {fileID: 8900000, guid: 5248dc46dc7a2af44b767c519f80d009, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 5a6ad674419719c44a6b0044970af01e, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Normal
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _2DReflect
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectionTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeReflTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Normals
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: 1
+      data:
+        first:
+          name: _Spread
+        second: .100000001
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+      data:
+        first:
+          name: _OneMinusReflectivity
+        second: 0
+      data:
+        first:
+          name: _NoiseAmount
+        second: .291044801
+      data:
+        first:
+          name: _FadeOutDistNear
+        second: 6.05999994
+      data:
+        first:
+          name: _FadeOutDistFar
+        second: 7.86000013
+      data:
+        first:
+          name: _Multiplier
+        second: .200000003
+      data:
+        first:
+          name: _Bias
+        second: .300000012
+      data:
+        first:
+          name: _TimeOnDuration
+        second: 1
+      data:
+        first:
+          name: _TimeOffDuration
+        second: 0
+      data:
+        first:
+          name: _BlinkingTimeOffsScale
+        second: 1
+      data:
+        first:
+          name: _SizeGrowStartDist
+        second: 1
+      data:
+        first:
+          name: _SizeGrowEndDist
+        second: 35
+      data:
+        first:
+          name: _MaxGrowSize
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .567164183, g: .567164183, b: .567164183, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .5}
